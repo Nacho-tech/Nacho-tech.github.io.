@@ -1,0 +1,5 @@
+Type: A -- Hostname: DOMAINNAME.TLD -- Value: 111.111.111.111
+Type: CNAME -- Hostname: www.DOMAINNAME.TLD -- Value: DOMAINNAME.TLD
+Type: NS -- Hostname: DOMAINNAME.TLD -- Value: ns1.natsumids.com
+Type: NS -- Hostname: DOMAINNAME.TLD -- Value: ns2.natsumids.com
+Type: NS -- Hostname: DOMAINNAME.TLD -- Value: ns3.natsumids.com
